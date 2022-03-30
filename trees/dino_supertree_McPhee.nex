@@ -1,0 +1,245 @@
+#NEXUS
+[R-package PHYTOOLS, Tue Oct 27 15:06:30 2020]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 116;
+	TAXLABELS
+		Aardonyx_celestae
+		Abrictosaurus_consors
+		Adeopapposaurus_mognai
+		Anchisaurus_polyzelus
+		Antetonitrus_ingenipes
+		Arizona_Scelidosaur
+		Arizonasaurus
+		Asilisaurus_kongwe
+		Barapasaurus_tagorei
+		Berberosaurus_liassicus
+		Bienosaurus_lufengensis
+		Blikanasaurus_cromptoni
+		Camelotia_borealis
+		Camposaurus_arizonensis
+		Chindesaurus_bryansmalli
+		Chromogisaurus_novasi
+		Coelophysis_bauri
+		Coelophysis_kayentakatae
+		Coelophysis_rhodesiensis
+		Coloradisaurus_brevis
+		Cryolophosaurus_ellioti
+		Ctenosauriscus
+		Daemonosaurus_chauliodus
+		Dilophosaurus_wetherilli
+		Diodorus_scytobrachion
+		Dongusuchus
+		Dracoraptor_hanigani
+		Dracovenator_regenti
+		Dromomeron_gigas
+		Dromomeron_gregorii
+		Dromomeron_romeri
+		Efraasia_minor
+		Emausaurus_ernsti
+		Eocursor_parvus
+		Eodromaeus_murphi
+		Eoraptor_lunensis
+		Eucnemesaurus_entaxonis
+		Eucnemesaurus_fortis
+		Eucoelophysis_baldwini
+		FMNH_CUP_2089
+		FMNH_CUP_2338
+		Glacialisaurus_hammeri
+		Gojirasaurus_quayi
+		Gongxianosaurus_shibeiensis
+		Guaibasauridae_indet_
+		Guaibasaurus_candelariensis
+		Herrerasaurus_ischigualastensis
+		Heterodontosaurus_tucki
+		Isanosaurus_attavipachi
+		Ixalerpeton_polesinensis
+		Jingshanosaurus_xinwaensis
+		Kayenta_heterodontosaurid
+		Kwanasaurus_williamparkeri
+		Lagerpeton_chanarensis
+		Lagerpetonidae_indet_
+		Laquintasaura_venezuelae
+		Ledumahadi_mafube
+		Leonerasaurus_taquetrensis
+		Lepidus_praecisio
+		Lesothosaurus_diagnosticus
+		Lessemsaurus_sauropoides
+		Lewisuchus_admixtus
+		Leyesaurus_marayensis
+		Liliensternus_liliensterni
+		Lucianovenator_bonoi
+		Lufengosaurus_huenei
+		Lutungutali_sitwensis
+		Lycorhinus_angustidens
+		Manidens_condorensis
+		Marasuchus_lilloensis
+		Massospondylus_carinatus
+		Massospondylus_kaalae
+		Melanorosaurus_readi
+		Melanorosaurus_thabanensis
+		Mussaurus_patagonicus
+		Ohmdenosaurus_liasicus
+		Panguraptor_lufengensis
+		Panphagia_protos
+		Pantydraco_caducus
+		Pegomastax_africanus
+		Pisanosaurus_mertii
+		Plateosauravus_cullingworthi
+		Plateosaurus_engelhardti
+		Plateosaurus_gracilis
+		Poreba_Herrerasauridae_indet_
+		Powellvenator_podocitus
+		Procompsognathus_triassicus
+		Pulanesaura_eocollum
+		Riojasaurus_incertus
+		Ruehleia_bedheimensis
+		Sacisaurus_agudoensis
+		Saltopus_elginensis
+		Sanjuansaurus_gordilloi
+		Sarahsaurus_aurifontanalis
+		Sarcosaurus_woodi
+		Saturnalia_tupiniquim
+		Scelidosaurus_harrisonii
+		Scutellosaurus_lawleri
+		Segisaurus_halli
+		Seitaad_ruessi
+		Silesaurus_opolensis
+		Sinosaurus_triassicus
+		Staurikosaurus_pricei
+		Tachiraptor_admirabilis
+		Tatisaurus_oehleri
+		Tawa_hallae
+		Tazoudasaurus_naimi
+		Teleocrater
+		Thecodontosaurus_antiquus
+		Unaysaurus_tolentinoi
+		Vulcanodon_karibaensis
+		Xilousuchus
+		Xingxiulong_chengi
+		Yarasuchus
+		Yunnanosaurus_huangi
+		Zupaysaurus_rougieri
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Aardonyx_celestae,
+		2	Abrictosaurus_consors,
+		3	Adeopapposaurus_mognai,
+		4	Anchisaurus_polyzelus,
+		5	Antetonitrus_ingenipes,
+		6	Arizona_Scelidosaur,
+		7	Arizonasaurus,
+		8	Asilisaurus_kongwe,
+		9	Barapasaurus_tagorei,
+		10	Berberosaurus_liassicus,
+		11	Bienosaurus_lufengensis,
+		12	Blikanasaurus_cromptoni,
+		13	Camelotia_borealis,
+		14	Camposaurus_arizonensis,
+		15	Chindesaurus_bryansmalli,
+		16	Chromogisaurus_novasi,
+		17	Coelophysis_bauri,
+		18	Coelophysis_kayentakatae,
+		19	Coelophysis_rhodesiensis,
+		20	Coloradisaurus_brevis,
+		21	Cryolophosaurus_ellioti,
+		22	Ctenosauriscus,
+		23	Daemonosaurus_chauliodus,
+		24	Dilophosaurus_wetherilli,
+		25	Diodorus_scytobrachion,
+		26	Dongusuchus,
+		27	Dracoraptor_hanigani,
+		28	Dracovenator_regenti,
+		29	Dromomeron_gigas,
+		30	Dromomeron_gregorii,
+		31	Dromomeron_romeri,
+		32	Efraasia_minor,
+		33	Emausaurus_ernsti,
+		34	Eocursor_parvus,
+		35	Eodromaeus_murphi,
+		36	Eoraptor_lunensis,
+		37	Eucnemesaurus_entaxonis,
+		38	Eucnemesaurus_fortis,
+		39	Eucoelophysis_baldwini,
+		40	FMNH_CUP_2089,
+		41	FMNH_CUP_2338,
+		42	Glacialisaurus_hammeri,
+		43	Gojirasaurus_quayi,
+		44	Gongxianosaurus_shibeiensis,
+		45	Guaibasauridae_indet_,
+		46	Guaibasaurus_candelariensis,
+		47	Herrerasaurus_ischigualastensis,
+		48	Heterodontosaurus_tucki,
+		49	Isanosaurus_attavipachi,
+		50	Ixalerpeton_polesinensis,
+		51	Jingshanosaurus_xinwaensis,
+		52	Kayenta_heterodontosaurid,
+		53	Kwanasaurus_williamparkeri,
+		54	Lagerpeton_chanarensis,
+		55	Lagerpetonidae_indet_,
+		56	Laquintasaura_venezuelae,
+		57	Ledumahadi_mafube,
+		58	Leonerasaurus_taquetrensis,
+		59	Lepidus_praecisio,
+		60	Lesothosaurus_diagnosticus,
+		61	Lessemsaurus_sauropoides,
+		62	Lewisuchus_admixtus,
+		63	Leyesaurus_marayensis,
+		64	Liliensternus_liliensterni,
+		65	Lucianovenator_bonoi,
+		66	Lufengosaurus_huenei,
+		67	Lutungutali_sitwensis,
+		68	Lycorhinus_angustidens,
+		69	Manidens_condorensis,
+		70	Marasuchus_lilloensis,
+		71	Massospondylus_carinatus,
+		72	Massospondylus_kaalae,
+		73	Melanorosaurus_readi,
+		74	Melanorosaurus_thabanensis,
+		75	Mussaurus_patagonicus,
+		76	Ohmdenosaurus_liasicus,
+		77	Panguraptor_lufengensis,
+		78	Panphagia_protos,
+		79	Pantydraco_caducus,
+		80	Pegomastax_africanus,
+		81	Pisanosaurus_mertii,
+		82	Plateosauravus_cullingworthi,
+		83	Plateosaurus_engelhardti,
+		84	Plateosaurus_gracilis,
+		85	Poreba_Herrerasauridae_indet_,
+		86	Powellvenator_podocitus,
+		87	Procompsognathus_triassicus,
+		88	Pulanesaura_eocollum,
+		89	Riojasaurus_incertus,
+		90	Ruehleia_bedheimensis,
+		91	Sacisaurus_agudoensis,
+		92	Saltopus_elginensis,
+		93	Sanjuansaurus_gordilloi,
+		94	Sarahsaurus_aurifontanalis,
+		95	Sarcosaurus_woodi,
+		96	Saturnalia_tupiniquim,
+		97	Scelidosaurus_harrisonii,
+		98	Scutellosaurus_lawleri,
+		99	Segisaurus_halli,
+		100	Seitaad_ruessi,
+		101	Silesaurus_opolensis,
+		102	Sinosaurus_triassicus,
+		103	Staurikosaurus_pricei,
+		104	Tachiraptor_admirabilis,
+		105	Tatisaurus_oehleri,
+		106	Tawa_hallae,
+		107	Tazoudasaurus_naimi,
+		108	Teleocrater,
+		109	Thecodontosaurus_antiquus,
+		110	Unaysaurus_tolentinoi,
+		111	Vulcanodon_karibaensis,
+		112	Xilousuchus,
+		113	Xingxiulong_chengi,
+		114	Yarasuchus,
+		115	Yunnanosaurus_huangi,
+		116	Zupaysaurus_rougieri
+	;
+	TREE * UNTITLED = [&R] ((112,7,22),((108,26,114),((54,55,(50,(31,29,30))),(70,(92,(81,(62,(8,(101,(91,((67,25),(39,53)))))),((52,(68,((80,69),2,48))),(56,41,34,60,((33,97),6,105,11,98))),((46,45),23,((47,103,93,85),((106,15),(35,((116,(43,(102,28,21,24,(95,(10,104))))),(27,64,(18,(77,(86,(87,((59,17),(40,14,65,19,99))))))))))),(36,((78,(96,16)),((109,79),(32,((110,(84,83)),((90,82),((42,20),((((71,72),66),(63,3)),(94,((113,51),(4,((89,(37,38)),(115,(100,(75,(1,(74,(73,(12,(13,((61,(57,5)),(58,(44,(88,(111,107,49,(76,9)))))))))))))))))))))))))))))))));
+END;
